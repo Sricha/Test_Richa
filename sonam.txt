@@ -1,10 +1,10 @@
 hi this is sonam bansal
 hello
-<<<<<<< HEAD
+
 how r u?
 i am fine
-=======
+
 how r u?   h
 
 i am tring to understand git hub
->>>>>>> origin/master
+
